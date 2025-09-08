@@ -1,0 +1,11 @@
+__pycache__
+.env
+.zed
+.ropeproject
+.pylintrc
+pyrightconfig.json
+pods.toml
+venv
+scratch
+audio
+castward.db

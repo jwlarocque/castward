@@ -1,0 +1,4 @@
+onnx-asr
+google-genai
+litestar
+uvicorn
